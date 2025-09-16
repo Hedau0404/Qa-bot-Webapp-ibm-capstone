@@ -78,4 +78,3 @@ It is shared here for educational and portfolio purposes.
 
 ---
 
-## 📂 Repository Structure
